@@ -64,7 +64,7 @@ nav a:hover{
 main h1, h2, h3{
     font-family: 'pirata-one';
     margin-top: 14px;
-    margin-left: 70px;
+    margin-left: 60px;
     margin-bottom: 14px;
 }
 
@@ -74,7 +74,7 @@ main p{
     font-weight: bold;
     text-align: justify;
     line-height: 1.5;
-    margin-left: 70px;
+    margin-left: 60px;
     margin-right: 18px;
     margin-bottom: 15px;
 }
@@ -82,7 +82,7 @@ main p{
 img#img{
     border: 2px solid black;
     border-radius: 4px;
-    margin-left: 70px;
+    margin-left: 60px;
 }
 
 footer{
